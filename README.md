@@ -56,6 +56,8 @@ The data contains the different data related to a food order. The detailed data 
 - Check for missing values
 - Check for duplicates
 - Check counts for rating
+  
+
 
 **Viewing the first rows of the dataset**
 
@@ -98,11 +100,84 @@ The data contains the different data related to a food order. The detailed data 
 
 **Univariate Analysis**
 
-**1. Explore all the variables and provide observations on their distributions. (Generally, histograms, boxplots, countplots, etc. are used for univariate exploration.)**
+#### **1. Explore all the variables and provide observations on their distributions. (Generally, histograms, boxplots, countplots, etc. are used for univariate exploration.)**
 
 *Order ID*
 
 ![](counts%20for%20order%20id.png)
+
+*Customer ID*
+
+![](counts%20for%20customer%20id.png)
+
+*Restaurant name*
+
+![](counts%20for%20restuarants.png)
+
+*Cuisine type*
+
+![](counts%20for%20cusine%20type.png)
+
+**cuisine_type**
+
+![](cusine%20type%20histoplot.png)
+
+**Cost of the order**
+
+![](cost%20of%20the%20order%20histoplot.png)
+
+![](cost%20of%20the%20order%20boxplot.png)
+
+*Day of the week*
+
+![](day%20of%20the%20week%20%20unique%20day.png)
+
+**day_of_the_week**
+
+![](countplot%20for%20day%20of%20the%20week.png)
+
+*Rating*
+
+![](checking%20unique%20rating.png)
+
+**rating**
+
+![](countplot%20for%20rating.png)
+
+**Food Preparation time**
+
+![[](food%20preparation%20for%20histoplot.png)
+
+![](food%20preparation%20boxplot.png)
+
+**Delivery time**
+
+![](delivery%20time%20histoplot.png)
+
+![](delivery%20time%20boxplot.png)
+
+
+#### **2. Which are the top 5 restaurants in terms of the number of orders received?**
+
+![](top_5_restuarants.png))
+
+
+#### **3. Which is the most popular cuisine on weekends?**
+
+![](weekend_most_popular_cuisine.png)
+
+#### **4. What percentage of the orders cost more than 20 dollars?**
+
+![](percentage%20cost%20more%2020%20dollars.png)
+
+
+#### **5. What is the mean order delivery time?**
+
+![](mean%20order%20delivery%20time.png)
+
+#### **6. The company has decided to give 20% discount vouchers to the top 3 most frequent customers. Find the IDs of these customers and the number of orders they placed.**
+
+![](20%25%20discount%20for%20top%203%20customers.png)
 
 ### Conclusion and Business Recommendations
 
