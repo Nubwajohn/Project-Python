@@ -96,6 +96,13 @@ The data contains the different data related to a food order. The detailed data 
 10. The company wants to analyze the total time required to deliver the food. What percentage of orders take more than 60 minutes to get delivered from the time the order is placed? (The food has to be prepared and then delivered.
 11. The company wants to analyze the delivery time of the orders on weekdays and weekends. How does the mean delivery time vary during weekdays and weekends?
 
+**Univariate Analysis**
+
+**1. Explore all the variables and provide observations on their distributions. (Generally, histograms, boxplots, countplots, etc. are used for univariate exploration.)**
+
+*Order ID*
+
+![](counts%20for%20order%20id.png)
 
 ### Conclusion and Business Recommendations
 
