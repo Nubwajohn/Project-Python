@@ -32,18 +32,22 @@ The data contains the different data related to a food order. The detailed data 
 - delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 
 ### Tools
+
 - Programming Language: Python.
 - Data Manipulation & Analysis Libraries: Pandas, NumPy.
 - Data Visualization Libraries: Matplotlib, Seaborn.
 - Data Preprocessing & Exploratory Data Analysis (EDA) Tools:Excel, Google Colab.
   
 ### Import libraries
-chart
+
+![](Food%20hub%20Librabries.png)
 
 ### Reading DataFrame
-chart
+
+![](DataFrame%20Food%20hub.png)
 
 ### Exploratory Data Analysis
+
 **Data Overview**
 
 - Viewing the first rows of the dataset
@@ -52,7 +56,30 @@ chart
 - Check for missing values
 - Check for duplicates
 - Check counts for rating
-  
+
+**Viewing the first rows of the dataset**
+
+![](View_the_first_row.png)
+
+**Checking the shape of the dataset**
+
+![](Food%20hub%20Shape%20of%20dataset.png)
+
+**Getting the statistical summary for the variables**
+
+![](Food%20hub%20Statistical%20summary.png)
+
+**Check for missing values**
+
+![](Food%20missing%20values%20.png)
+
+**Check for duplicates**
+**chart**
+
+**Check counts for rating**
+
+![](counts%20for%20rating.png)
+
 ### Exploratory Data Analysis
 
 **Data Overview**
