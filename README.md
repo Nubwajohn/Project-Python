@@ -4,6 +4,8 @@
 
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
 
+*Disclaimer: All datasets and reports do not represent any company, institution, or country, but just a dummy dataset for learning purposes.*
+
 ## Table of contents
 
 - [Project Overview](#project-overview)
